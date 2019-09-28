@@ -15,3 +15,8 @@
 
 - By Jason Lengstorf
 - https://jlengstorf.github.io/presentations/you-belong-here/#/33
+
+### [Authentication best practices in React and GraphQL](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
+
+- By Vladimir Novick
+- https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/
