@@ -20,3 +20,8 @@
 
 - By Vladimir Novick
 - https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/
+
+### [Why performance is important?](https://speakerdeck.com/evaieridou/why-performance-is-important)
+
+- By Eva Ieridou
+- https://speakerdeck.com/evaieridou/why-performance-is-important
